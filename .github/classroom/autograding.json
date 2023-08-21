@@ -1,0 +1,14 @@
+{
+  "tests": [
+    {
+      "name": "conditional&#45;statement&#45;test",
+      "setup": "",
+      "run": "make test",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": null
+    }
+  ]
+}
